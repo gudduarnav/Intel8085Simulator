@@ -1,0 +1,96 @@
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\bin\Intel8085Sim.exe
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\bin\Intel8085Sim.pdb
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\bin\Intel8085Sim.xml
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResolveAssemblyReference.cache
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormAssembler.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexDecode.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexEncode.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormIntrSerial.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMain.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMemoryViewer.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormPortViewer.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormRegisterState.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormReport.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.Resources.resources
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.read.1.tlog
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.write.1.tlog
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.exe
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.xml
+E:\MyPrograms\hll\VB.Net\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.pdb
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.exe
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.pdb
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.xml
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResolveAssemblyReference.cache
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormAssembler.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormBitDisplay.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormDecDisplay.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexDecode.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexEncode.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexIO.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormIntrSerial.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormKeyDisplay.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMain.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMemoryViewer.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormPortViewer.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormRegisterState.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormReport.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormScreenDis.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormUsart.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.Resources.resources
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.read.1.tlog
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.write.1.tlog
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.exe
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.xml
+E:\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.pdb
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.exe
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.pdb
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\bin\Intel8085Sim.xml
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormAssembler.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormBitDisplay.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormDecDisplay.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexDecode.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexEncode.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexIO.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormIntrSerial.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormKeyDisplay.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMain.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMemoryViewer.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormPortViewer.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormRegisterState.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormReport.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormScreenDis.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormUsart.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.Resources.resources
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.read.1.tlog
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.write.1.tlog
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.exe
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.xml
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.pdb
+C:\usr\programs\MyPrograms\hll\VB.Net\simulator\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormKit.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.exe
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.xml
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.pdb
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\bin\Intel8085Sim.exe
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormAssembler.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormBitDisplay.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormDecDisplay.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexDecode.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexEncode.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormHexIO.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormIntrSerial.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormKeyDisplay.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormKit.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMain.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormMemoryViewer.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormPortViewer.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormRegisterState.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormReport.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormScreenDis.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.FormUsart.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\Intel8085Sim.Resources.resources
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.read.1.tlog
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\Intel8085Sim\Intel8085Sim\obj\x86\Release\ResGen.write.1.tlog
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\bin\Intel8085Sim.pdb
+C:\usr\programs\My Projects\mca project\Intel 8085 Simulator\bin\Intel8085Sim.xml

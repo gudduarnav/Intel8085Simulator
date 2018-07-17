@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7A3B083-6117-4118-98C6-0316969053DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Intel8085Sim.My.MyApplication</StartupObject>
+    <RootNamespace>Intel8085Sim</RootNamespace>
+    <AssemblyName>Intel8085Sim</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DocumentationFile>Intel8085Sim.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DocumentationFile>Intel8085Sim.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2A228A2B1D5293408BFA5CD39AAA28CB75852EB3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Intel8085Sim_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Intel8085Sim.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>i8085.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAssembler.Designer.vb">
+      <DependentUpon>FormAssembler.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAssembler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBitDisplay.Designer.vb">
+      <DependentUpon>FormBitDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBitDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDecDisplay.Designer.vb">
+      <DependentUpon>FormDecDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDecDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHexDecode.Designer.vb">
+      <DependentUpon>FormHexDecode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHexDecode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHexEncode.Designer.vb">
+      <DependentUpon>FormHexEncode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHexEncode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHexIO.Designer.vb">
+      <DependentUpon>FormHexIO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHexIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIntrSerial.Designer.vb">
+      <DependentUpon>FormIntrSerial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormIntrSerial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKeyDisplay.Designer.vb">
+      <DependentUpon>FormKeyDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormKeyDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKit.Designer.vb">
+      <DependentUpon>FormKit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormKit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMemoryViewer.Designer.vb">
+      <DependentUpon>FormMemoryViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMemoryViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPortViewer.Designer.vb">
+      <DependentUpon>FormPortViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPortViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegisterState.Designer.vb">
+      <DependentUpon>FormRegisterState.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegisterState.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReport.Designer.vb">
+      <DependentUpon>FormReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormScreenDis.Designer.vb">
+      <DependentUpon>FormScreenDis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormScreenDis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsart.Designer.vb">
+      <DependentUpon>FormUsart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HiResTimer.vb" />
+    <Compile Include="MachineState.vb" />
+    <Compile Include="MachineStateClass_Diassembly.vb" />
+    <Compile Include="MachineState_Machine.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormAssembler.resx">
+      <DependentUpon>FormAssembler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBitDisplay.resx">
+      <DependentUpon>FormBitDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDecDisplay.resx">
+      <DependentUpon>FormDecDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHexDecode.resx">
+      <DependentUpon>FormHexDecode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHexEncode.resx">
+      <DependentUpon>FormHexEncode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHexIO.resx">
+      <DependentUpon>FormHexIO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIntrSerial.resx">
+      <DependentUpon>FormIntrSerial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKeyDisplay.resx">
+      <DependentUpon>FormKeyDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKit.resx">
+      <DependentUpon>FormKit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMemoryViewer.resx">
+      <DependentUpon>FormMemoryViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPortViewer.resx">
+      <DependentUpon>FormPortViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegisterState.resx">
+      <DependentUpon>FormRegisterState.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReport.resx">
+      <DependentUpon>FormReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormScreenDis.resx">
+      <DependentUpon>FormScreenDis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsart.resx">
+      <DependentUpon>FormUsart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Intel8085Sim.snk" />
+    <None Include="Intel8085Sim_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="i8085.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,113 @@
+body
+{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.pagemain
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  font-family: OCR A Extended;
+  font-size: 14px;
+}
+
+.pagetitle
+{
+    font-size: 24px;
+    font-weight: 1200;
+}
+
+.indexpage
+{
+   border: thin solid #f0f0f0;
+}
+
+.topic
+{
+  padding-left: 10px;
+  color: #f008f0;
+  border: thin solid #f0f0f0;
+}
+
+.subtopic
+{
+  padding-left: 30px;
+  color: #0000ff;
+  border: thin solid #f0f0f0;
+}
+
+.subtopic1
+{
+  padding-left: 60px;
+  color: #00a0ff;
+  border: thin solid #f0f0f0;
+}
+
+.header
+{
+   border: thin solid #f0f0f0;
+}
+
+.gen
+{
+   border: thin solid #f0f0f0;
+}
+
+.newpage
+{
+ page-break-after: always;
+}
+
+.s_blog
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.s_title
+{
+  color: #0000ff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: OCR A Extended;
+}
+
+.s_content
+{
+  padding-top: 10px;
+  padding-left: 15px;
+  color: #000000;
+  font-size: 14px;
+  font-weight: normal;
+  font-family: Times New Roman;
+}
+
+.s_dummyblog
+{
+  padding-top: 10px;
+}
+
+.a {
+  font-family: Consolas;
+  text-decoration: none;
+  color: #0000a0;
+}
+
+.a1 {
+  font-family: Consolas;
+  text-decoration: none;
+  color: #102028;
+}
+
+code
+{
+  color: brown;
+  font-size: 15px;
+  font-weight: 200;
+  font-family: OCR A Extended;
+}

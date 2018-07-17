@@ -1,0 +1,296 @@
+<html>
+    <head>
+           <title>System Requirements Specifications</title>
+           <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <div class="pagemain">
+            <center class="pagetitle">Index</center>
+
+            <table align="center" class="indexpage" cellspacing="0" cellpadding="0" border="0">
+                <tr><th class="header" width="600">Content</th><th class="header" width="200">Page</th></tr>
+
+                <tr><td class="topic">General Information</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Purpose</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Scope</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">System Overview</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Project References</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Acronyms and Abbreviations</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Points of Contacts</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+
+                <tr><td class="topic">Management Summary</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Environment</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Current Functional Procedures</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Functional Objectives</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Performance Objectives</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Assumptions and Constraints</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+                <tr><td class="subtopic">Evaluation Criteria</td><td class="gen">&nbsp;&nbsp;&nbsp;</td></tr>
+            </table>
+
+        </div>
+
+        <div class="newpage"></div>
+
+        <div class="pagemain">
+            <center class="pagetitle">General Information</center>
+            <div class="s_content">
+                    This document will describe the overall requirements of the Intel 8085
+                    Simulator. The document will follow the IEEE guidelines for requirement
+                    specifications with some variations.
+                    <br />
+                    <br />
+            </div>
+
+            <div class="s_blog">
+                <div class="s_title">General Information</div>
+                <div class="s_content">
+                    The product to be designed is an Intel 8085 Simulator. The product
+                    is developed with a target for minimal deployment and requirement
+                    specifications, as will be observed from the document. It is targeted
+                    as a testing and development platform for assembly language programming
+                    on Intel 8085 processor, but on moderm PCs and Laptop.
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">Purpose</div>
+                        <div class="s_content">
+                            The software to be developed is a Intel 8085 Simulator. It is
+                            targeted to run on modern Desktops and Laptops, with as minimal
+                            system configuration as possible. It will be a benifit to establish
+                            cross-platform support for the final executable, as far as possible.
+                            For this reason, we will be using Microsoft .NET Framework 2.0. This
+                            will benifit users to run the product on all Windows OS with Microsoft
+                            .NET framework 2.0 installed. And the product will also execute on other
+                            OS with MONO Framework installed. But the execution on non-Windows OS is
+                            not guarenteed.
+                        </div>
+                    </div>
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">Scope</div>
+                        <div class="s_content">
+                            The final software is developed to benifit 8085 developers, to
+                            test their assembly language or machine code based on Intel 8085
+                            microprocessor. The product will target the audience which includes
+                            Students from Computer Science, Electronics, etc. who are in phase
+                            of learning the basics of Assembly language programming.
+                            This product will also be benificiary for those who cannot get their
+                            hands on an Intel 8085 SDK, but have access to any modern computing
+                            systems.
+                        </div>
+                    </div>
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">System Overview</div>
+                        <div class="s_content">
+                           <table cellspacing="0" cellpadding="2" border="0">
+                            <tr>
+                                <th align="left">Project Name : </th><td>Intel 8085 Simulator</td>
+                            </tr>
+                            <tr>
+                                <th align="left">Developed by : </th><td>Arnav Mukhopadhyay</td>
+                            </tr>
+                            <tr>
+                                <th align="left">System Category : </th><td>Application / Simulator</td>
+                            </tr>
+                            <tr>
+                                <th align="left">Operational Status : </th><td>Finalized and in Release Version</td>
+                            </tr>
+                            <tr>
+                                <th align="left">Webpage : </th><td><a href="http://sourceforge.net/projects/intel8085sim/" class="a">http://sourceforge.net/projects/intel8085sim/</a></td>
+                            </tr>
+                            <tr>
+                                <th align="left">Development Platform : </th><td>Microsoft Visual Basic .NET</a></td>
+                            </tr>
+                            <tr>
+                                <th align="left">Execution Platform : </th><td>Microsoft .NET Framework 2.0</td>
+                            </tr>
+                            <tr>
+                                <th align="left">Primary OS Platform : </th><td>Microsoft Windows Operating System</td>
+                            </tr>
+                            <tr>
+                                <th align="left">License : </th><td>Open Source Freeware Project</td>
+                            </tr>
+
+                           </table>
+
+                        </div>
+                    </div>
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">Project References</div>
+                        <div class="s_content">
+                            The following documents had been considered for reference during the development of the project:
+                            <ul>
+                                <li class="a1">Intel 8085 Manual from Intel Coorporation</li>
+                                <li class="a1">Microprocessor Architecture, Programming & Applications - R. Gaonkar, Wiley</li>
+                                <li class="a1">Visual Basic .NET PTU-DEP Study Material</li>
+                                <li class="a1">An Introduction to Programming Using Visual Basic® 2005, Sixth Edition -David I. Schneider -  University of Maryland</li>
+                                <li class="a1">The Art of Assembly Language Programming (2003)</li>
+                                <li class="a1">Wikipedia</li>
+                                <li class="a1">SICP 2e - Ableson, Sussman_2 - MIT Press (1996)</li>
+                                <li class="a1">Concepts of Programming Language (9th Edition) - Robert W. Sebesta</li>
+                             </ul>
+                        </div>
+                    </div>
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">Acronyms and Abbreviations</div>
+                        <div class="s_content">
+                            <table cellspacing="0" cellpadding="0" border="0">
+                                <tr>
+                                    <th align="left">&micro;P, uP : </th>
+                                    <td>Microprocessor</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">VB : </th>
+                                    <td>Visual Basic</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">VS : </th>
+                                    <td>Visual Studio</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">OS : </th>
+                                    <td>Operating System</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">PC : </th>
+                                    <td>Personal Computer</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">asm : </th>
+                                    <td>Assembly Language</td>
+                                </tr>
+                                <tr>
+                                    <th align="left">Opcode : </th>
+                                    <td>Operation Code</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="s_dummyblog">
+                        <div class="s_title">Points of Contacts</div>
+                        <div class="s_content">
+                            For further assistance and informations on programming using
+                            the product, you can visit my homepage: <a class="a" href="http://gudduarnav.eu5.org">
+                            http://gudduarnav.eu5.org</a>, and then communicate through the <b>Web
+                            Mailer</b> and <b>Guestbook</b>. Replies to the queries will be provided
+                            as quickly as possible.
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="newpage"></div>
+
+        <div class="pagemain">
+            <center class="pagetitle">Management Summary</center>
+            <div class="s_content">
+                    Provides the informations listed below:-
+                    <br />
+                    <br />
+            </div>
+
+            <div class="s_blog">
+                <div class="s_title">Environment</div>
+                <div class="s_content">
+                    <table cellspacing="5" cellpadding="0" border="0">
+                        <tr>
+                            <th align="left">Developer</th><td>:</td><td>Arnav Mukhopadhyay</td>
+                        </tr>
+                        <tr>
+                            <th align="left">Development Profile</th><td>:</td><td>Developed by <i>mentioned individual</i> for
+                            MCA Final Semester Project</td>
+                        </tr>
+                        <tr>
+                            <th align="left">Development Environment</th><td>:</td><td>Mircrosoft Visual Studio 2010 <i>on <b>Windows 7 x64</b></i></td>
+                        </tr>
+                        <tr>
+                            <th align="left">Programming language</th><td>:</td><td>Microsoft Visual Basic .NET</td>
+                        </tr>
+                        <tr>
+                            <th align="left">Microsoft .NET Environment</th><td>:</td><td>Version 2.0 <i>atleast</i></td>
+                        </tr>
+                        <tr>
+                            <th align="left">Product Category</th><td>:</td><td><code>Software/Simulator/Intel-8085</code></td>
+                        </tr>
+                        <tr>
+                            <th align="left">Supported Operating System</th><td>:</td><td>Windows 2000 Service Pack 3, Windows 98, Windows 98 Second Edition, Windows ME, Windows Server 2003, Windows XP Service Pack 2 <i>atleast</i></td>
+                        </tr>
+                        <tr>
+                            <th align="left">Software License</th><td>:</td><td><code>Open Source <i>Freeware</i></code></td>
+                        </tr>
+          </table>
+                </div>
+            </div>
+
+            <div class="s_blog">
+                <div class="s_title">Current Functional Procedure</div>
+                <div class="s_content">
+                    <ul>
+                        <li>Existing systems comparable to the Intel 8085 Simulator designed are <i>
+                        GNU8085 Simulator, 8085 Simulator by J.Tech. Softwares, 8085 Simulator hosted at http://8085simulator.codeplex.com/,
+                        </i>. However, there are several limitations in the existing simulators. These are
+                        either commercial in version, or have limited features. Hence, the target is to
+                        eliminate the limitations as far as possible, alongwith keeping the software
+                        as freeware.</li>
+                        <li>The system designed here is a development platform, and requires no
+                        maintenance.</li>
+                        <li>The application had been developed by an individual, as this is designed
+                        for MCA project work and to facilitate academic students.</li>
+                        <li>The input data for the application is the "Source Assembly code",
+                        output is binary data in Intel 8085 understandable format, loaded into
+                        the simulator memory.</li>
+                        <li>The execution and visual output is obtained within the working IDE of the
+                        software application.</li>
+                    </ul>
+                </div>
+
+                <div class="s_title">Functional Objectives</div>
+                <div class="s_content">
+                    <ul>
+                        <li>The application had been developed to facilitate academic students.</li>
+                        <li>The main objective is to make students aware of 8085 assembly language
+                        development.</li>
+                        <li>The application is a freeware and is always open-source.</li>
+                        <li>It provides least execution cost than buying a 8085 simulator.</li>
+                    </ul>
+                </div>
+
+                <div class="s_title">Performace Objective</div>
+                <div class="s_content">
+                    <ul>
+                        <li>The application is a freeware and is always open-source.</li>
+                        <li>It provides least execution cost than buying a 8085 simulator.</li>
+                        <li>It is made available online at sourceforge.net. Hence, is widely available
+                        without much hassle.</li>
+                        <li>The speed of the program is however limited by the execution system and present
+                        load. </li>
+                        <li>Compared to average 8085 SDKs available, it provides enhanced control over
+                        Instruction execution clock, to facilitate effective debugging.</li>
+                </ul>
+                </div>
+
+                 <div class="s_title">Evaluation Criteria</div>
+                <div class="s_content">
+                    <ul>
+                        <li>The development time was about 6 month, which included studies conducted,
+                        code writing and UI design, testing and execution report (monitored by Author and
+                        also reports verbally communication be users, which mostly included students).</li>
+                        <li>The system is fairly easy to use. But requires programming knowledge of
+                        8085.</li>
+                </ul>
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </body>
+</html>
