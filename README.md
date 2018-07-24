@@ -4,4 +4,6 @@
 [ ] The project implements a complete Intel 8085 Simulator.  
 [ ] The executable presents a complete IDE, which includes Editor, 
 Assembler, Simulator, and SDK-85 GUI toolkit for practicing assembly 
-language programming.
+language programming.  
+[ ] Example 8085 Assembly language programs are included in "8085Asm" folder.  
+
